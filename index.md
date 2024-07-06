@@ -1,2 +1,1 @@
-这是宋承洋的个人主页！
-
+Chengyang Song received the B.S. degree from the School of Electronics, Electrical Engineering, and Control at Qilu University of Technology, China. He is currently pursuing the M.S. degree with the Department of Electronic Engineering, College of Information Science and Engineering, Ocean University of China, Qingdao,266000, China(e-mail: songchengyang@stu.ouc.edu.cn). His research interests include deep learning and computer version.
