@@ -1,1 +1,1 @@
-Chengyang Song's Homepage: [https://v6-song.github.io/songchengyang.github.io/](https://v6-song.github.io/songchengyang.github.io/)
+Chengyang Song's Homepage: [https://v6-song.github.io/songchengyang/](https://v6-song.github.io/songchengyang/)
